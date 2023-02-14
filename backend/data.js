@@ -1,7 +1,7 @@
 const data = {
     products: [
       {
-        _id: '1',
+        //_id: '1',
         name: 'Book 1',
         slug: 'Story',
         category: 'Story Books',
@@ -13,7 +13,7 @@ const data = {
         description: 'high quality shirt',
       },
       {
-        _id: '2',
+        //_id: '2',
         name: 'Book 2',
         slug: 'Documentary',
         category: 'Documentary Books',
@@ -25,7 +25,7 @@ const data = {
         description: 'high quality product',
       },
       {
-        _id: '3',
+        //_id: '3',
         name: 'Book 3',
         slug: 'Adventure',
         category: 'Adventure Books',
@@ -37,7 +37,7 @@ const data = {
         description: 'high quality product',
       },
       {
-        _id: '4',
+        //_id: '4',
         name: 'Book 4',
         slug: 'Educative',
         category: 'Educative Books',
