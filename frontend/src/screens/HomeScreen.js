@@ -7,6 +7,7 @@ import Product from '../components/Product';
 import { Helmet } from 'react-helmet-async';
 import LoadingBox from '../components/LoadingBox';
 import MessageBox from '../components/MessageBox';
+import Footer from '../components/Footer';
 // import data from '../data';
 
 const reducer = (state, action) => {
@@ -64,6 +65,11 @@ function HomeScreen() {
           </Row>
           )}
       </div>
+      <div>
+      <footer> 
+          <Footer /> 
+      </footer>
+          </div>
     </div>
   );
 }
