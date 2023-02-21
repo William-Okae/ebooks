@@ -139,4 +139,18 @@ List Products
     1. define protected route component
     2. define admin route component
     3. add menu for admin in header
-34.
+34.Choose Address On Google Map
+    1. create google map credentials
+    2. update .env file with Google Api Key
+    3. create api to send google api to frontend
+    4. create map screen
+    5. fetch google api
+    6. getUserLocation
+    7. install @react-google-maps/api
+    8. use it in shipping screen
+    9. apply map to the checkout screen
+35.Manage Products
+    1. create products list ui
+    2. implement backend api
+    3. fetch data
+36.
