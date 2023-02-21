@@ -153,4 +153,8 @@ List Products
     1. create products list ui
     2. implement backend api
     3. fetch data
-36.
+36.Create Edit Product
+    1. create edit button
+    2. create edit product ui
+    3. dispaly product info in the input boxes
+37.
