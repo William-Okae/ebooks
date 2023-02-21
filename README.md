@@ -200,4 +200,8 @@ List Products
     1. create submit review form
     2. handle submit
     3. implement backend api for review
-47.
+47.Upload multiple Images
+    1. add images to product model
+    2. get images in edit screen
+    3. show images in product screen
+48.
