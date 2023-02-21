@@ -157,4 +157,16 @@ List Products
     1. create edit button
     2. create edit product ui
     3. dispaly product info in the input boxes
-37.
+37.Implement Update Product
+    1. create edit product backend api
+    2. handle update click
+38.Upload Product Image
+    1. create cloudinary account
+    2. use the api key in env file
+    3. handle upload file
+    4. implement backend api to upload
+39.Delete Product
+    1. show delete button
+    2. implement backend api
+    3. handle on click
+40.
