@@ -189,4 +189,15 @@ List Products
     1. add delete button
     2. handle click action
     3. implement backen api for delete
-45.
+45.Email order receipt by mailgun(SKIPED)
+    1. create mailgun account
+    2. add and verify your domain to mailgun
+    3. install mailgun-js
+    4. set api key in env file
+    5. change pay order in orderRouter
+    6. send email order receipt
+46.Review Orders
+    1. create submit review form
+    2. handle submit
+    3. implement backend api for review
+47.
