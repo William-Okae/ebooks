@@ -200,12 +200,23 @@ function ProductScreen() {
                       </Button>
                     </div>
                   </ListGroup.Item>
-                )}
+                )}                                
               </ListGroup>
             </Card.Body>
           </Card>
         </Col>
       </Row>
+      {userInfo ? (
+      <a href="../images/Book Testing.pdf" download class="dwn">Download Book Sample</a>    
+      ) : (
+        <MessageBox>
+          Please{' '}
+          <Link to={`/signin?redirect=/product/${product.slug}`}>
+            Sign In
+          </Link>{' '}
+          to download a free sample of the book
+        </MessageBox>
+      )}
       <div className="my-3">
         <h2 ref={reviewsRef}>Reviews</h2>
         <div className="mb-3">
