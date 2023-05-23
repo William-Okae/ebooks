@@ -8,7 +8,6 @@ import { Helmet } from 'react-helmet-async';
 import LoadingBox from '../components/LoadingBox';
 import MessageBox from '../components/MessageBox';
 import Button from 'react-bootstrap/esm/Button';
-// import data from '../data';
 
 const reducer = (state, action) => {
   switch (action.type) {
@@ -117,12 +116,12 @@ function HomeScreen() {
                 <Button type="submit">
                   Submit
                 </Button>
-        </div>
+        </div>        
       <div class="copyright">
         <p>Copyright © Institute of Solution Engineering Ltd</p>
-    </div>
+    </div>    
     </div>
     
-  );
+  );  
 }
 export default HomeScreen;
