@@ -13,5 +13,10 @@
     "url": "https://github.com/William-Okae/ebooks"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/William-Okae/ebooks/issues"
+  },
+  "homepage": "https://github.com/William-Okae/ebooks#readme"
 }
+
