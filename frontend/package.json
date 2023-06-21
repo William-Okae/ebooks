@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "engine": {
+  "engines": {
     "node": "18.14.0",
     "npm": "9.7.1"
   },
