@@ -1,8 +1,7 @@
 {
   "name": "backend",
   "engines": {
-    "node": "18.14.0",
-    "npm": "9.7.1"
+    "node": "18.14.0"
   },
   "type": "module",
   "version": "1.0.0",
